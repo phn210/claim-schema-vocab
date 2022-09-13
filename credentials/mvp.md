@@ -1,13 +1,5 @@
 [comment]: <> ([age is ]&# 40;# age&# 41;)
 
-# index
-
-index is an incremental numeric value represents the order of published id card by the issuer
-
-```
-  "index": 12
-```
-
 # name
 
 name represents person name as string
@@ -39,11 +31,3 @@ regionCode is numeric code (integer) represents the person region
 ```
   "regionCode": 704
 ```
-
-# verified
-
-verified means that identity passed KYC verification procedure (boolean)
-
-```
-  "verified": true 
- ```
